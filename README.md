@@ -6,7 +6,7 @@
 
 ### Hi there, I'm [Ayushi Panwar](https://www.linkedin.com/in/ayushi-panwar-a47a23206/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Hello everyone, my name is Ayushi Panwar and currently I am pursuing my Bachelor's of Technology in College of engineering, Roorkee.I am very curious and excited about technologies and have the ability to explore many more things at the same time.Right now I am improving my skills in web development and trying to make it better and better. I am learning frontend things inside web development and then gradually I will try to learn backend. Due to this, my skills will go further towards full development, which will instill some confidence in me, and then I will get a chance to learn new things.
+Hello everyone, my name is Ayushi Panwar and currently I am pursuing my Bachelor's of Technology in Computer Science from College of Engineering, Roorkee.I am very curious and excited about technologies and have the ability to explore many more things at the same time.Right now I am improving my skills in web development and trying to make it better and better. I am learning frontend things inside web development and then gradually I will try to learn backend. Due to this, my skills will go further towards full development, which will install some confidence in me, and then I will get a chance to learn new things.
 
 
 
